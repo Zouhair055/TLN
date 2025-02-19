@@ -10,6 +10,8 @@ Ce projet vise à comparer deux visions différentes pour l'entraînement et l'�
 
 L’objectif du TP est de concevoir et implémenter un algorithme d’analyse de sentiment basé sur les aspects. Cela signifie identifier les aspects des entités cibles (ex. : "batterie", "service") et déterminer le sentiment exprimé pour chacun d’eux (positif, négatif ou neutre).
 
+## Git
+-      https://github.com/Zouhair055/TLN
 ### Jeux de données
 
 Des jeux de données annotés au format XML sont fournis :
